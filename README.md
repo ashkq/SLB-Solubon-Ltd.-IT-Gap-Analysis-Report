@@ -1,6 +1,6 @@
-# SLB Management & Solubon Ltd. IT Gap Analysis Report
+# SLBMGT & Solubon Ltd. IT Gap Analysis Report
 
-This repository presents a professional **IT Gap Analysis Report** prepared during my role as an **IT Consultant for SLB Management and Solubon Ltd.** as part of their corporate merger.  
+This repository presents a professional **IT Gap Analysis Report** prepared during my role as an **IT Consultant for SLBMGT and Solubon Ltd.** as part of their corporate merger.  
 The report provides a comprehensive assessment of the organizations’ existing IT infrastructure, application landscape, and security framework, with strategic recommendations to ensure a seamless integration and modernization of systems.
 
 ## Contents
