@@ -20,4 +20,4 @@ This project demonstrates my ability to:
 
 ---
 
-🔗 [View Full Report (PDF)](./SLBMGT Gap Analysis Report.pdf)
+🔗 [View Full Report (PDF)](./SLBMGT_Gap_Analysis_Report.pdf)
