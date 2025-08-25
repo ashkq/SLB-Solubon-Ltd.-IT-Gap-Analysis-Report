@@ -5,7 +5,7 @@ The report provides a comprehensive assessment of the organizations’ existing 
 
 ## Contents
 - **SLBMGT_Gap_Analysis_Report.pdf** – Full report (confidential details redacted)
-  🔗 [View Full Report (PDF)](https://github.com/ashkq/SLB-Solubon-Ltd.-IT-Gap-Analysis-Report/blob/main/SLBMGT%20Gap%20Analysis%20Report.pdf)
+- 🔗 [View Full Report (PDF)](https://github.com/ashkq/SLB-Solubon-Ltd.-IT-Gap-Analysis-Report/blob/main/SLBMGT%20Gap%20Analysis%20Report.pdf)
 - Recommendations for:
   - Microsoft 365 & SharePoint integration
   - Network and VPN configuration
