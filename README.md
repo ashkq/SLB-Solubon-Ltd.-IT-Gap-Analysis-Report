@@ -5,6 +5,7 @@ The report provides a comprehensive assessment of the organizations’ existing 
 
 ## Contents
 - **SLBMGT_Gap_Analysis_Report.pdf** – Full report (confidential details redacted)
+  🔗 [View Full Report (PDF)](https://github.com/ashkq/SLB-Solubon-Ltd.-IT-Gap-Analysis-Report/blob/main/SLBMGT%20Gap%20Analysis%20Report.pdf)
 - Recommendations for:
   - Microsoft 365 & SharePoint integration
   - Network and VPN configuration
@@ -17,7 +18,3 @@ This project demonstrates my ability to:
 - Conduct **end-to-end IT infrastructure evaluations**
 - Deliver structured **gap analysis & remediation roadmaps**
 - Communicate findings in a clear, executive-level format
-
----
-
-🔗 [View Full Report (PDF)](https://github.com/ashkq/SLB-Solubon-Ltd.-IT-Gap-Analysis-Report/blob/main/SLBMGT%20Gap%20Analysis%20Report.pdf)
