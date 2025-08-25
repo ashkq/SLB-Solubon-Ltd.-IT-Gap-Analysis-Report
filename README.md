@@ -20,4 +20,4 @@ This project demonstrates my ability to:
 
 ---
 
-🔗 [View Full Report (PDF)](https://github.com/yourusername/SLB-Solubon-Ltd.-IT-Gap-Analysis-Report/blob/main/SLBMGT_Gap_Analysis_Report.pdf)
+🔗 [View Full Report (PDF)](https://github.com/ashkq/SLB-Solubon-Ltd.-IT-Gap-Analysis-Report/blob/main/SLBMGT%20Gap%20Analysis%20Report.pdf)
