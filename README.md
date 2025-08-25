@@ -4,7 +4,7 @@ This repository presents a professional **IT Gap Analysis Report** prepared duri
 The report provides a comprehensive assessment of the organizations’ existing IT infrastructure, application landscape, and security framework, with strategic recommendations to ensure a seamless integration and modernization of systems.
 
 ## Contents
-- **SLB_Gap_Analysis.pdf** – Full report (confidential details redacted)
+- **SLBMGT_Gap_Analysis_Report.pdf** – Full report (confidential details redacted)
 - Recommendations for:
   - Microsoft 365 & SharePoint integration
   - Network and VPN configuration
